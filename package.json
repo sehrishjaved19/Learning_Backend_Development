@@ -1,0 +1,20 @@
+{
+  "name": "learning_backend_development",
+  "version": "1.0.0",
+  "description": "A hands-on repository documenting my backend development learning journey — covering Node.js, Express.js, APIs, and database integration as part of IBM’s Full Stack JavaScript Specialization.",
+  "main": "03_web_server_with_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sehrishjaved19/Learning_Backend_Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sehrishjaved19/Learning_Backend_Development/issues"
+  },
+  "homepage": "https://github.com/sehrishjaved19/Learning_Backend_Development#readme"
+}
